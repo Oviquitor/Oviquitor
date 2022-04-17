@@ -1,9 +1,9 @@
 <h1 align="left">Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"><!----></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oviquitor&color=yellow" alt="visitantes" /> Visitantes </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oviquitor&color=yellow" alt=" Visitantes " /> </p>
 
 <img src="https://cdn.discordapp.com/attachments/685879959205839013/965309417602052166/white_shurt.png">
 
- ## About ME
+ ## Sobre MIM
  - 🔥 Desenvolvedor Junior focado em aprender e ajudar o mundo. 
 
 - 💻 Atualmente estou trabalhando na [Amazonia Sistemas](https://www.amazoniasistemas.com.br)
@@ -37,6 +37,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960998262477832253/965342381689950218/545e8fa495165728d83b02e995b77ffd.gif">
 </div>
+<br><br>
 
   <!--LINGUAGENS
   ## 🛠 &nbsp;Tech Stack
@@ -52,9 +53,8 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
   ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;-->
   
-  ##
-  
- <!--LINKS-->
+ <!--LINKS SICIAL-->
+  ## Bora Conversar
 <div> 
     <a href="https://www.linkedin.com/in/victor-gabriel-correa-silva-1a8030233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/oviquitor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -65,3 +65,8 @@
   <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
  
 </div>
+<br><br>
+
+## 
+
+<img src="https://cdn.discordapp.com/attachments/960998262477832253/965368906376175716/Sem_Titulo-1.jpg">
