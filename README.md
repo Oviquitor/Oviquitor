@@ -4,7 +4,7 @@
 <img src="https://cdn.discordapp.com/attachments/685879959205839013/965309417602052166/white_shurt.png">
 
  ## Sobre MIM
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960998262477832253/965424558414917683/ssdasdasd.png">
+ <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960998262477832253/965424558414917683/ssdasdasd.png">
  - 🔥 Desenvolvedor Junior focado em aprender e ajudar o mundo. 
 
 - 💻 Atualmente estou trabalhando na [Amazonia Sistemas](https://www.amazoniasistemas.com.br)
@@ -36,7 +36,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960998262477832253/965342381689950218/545e8fa495165728d83b02e995b77ffd.gif">
+  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960998262477832253/965342381689950218/545e8fa495165728d83b02e995b77ffd.gif">
 </div>
 <br><br>
 
