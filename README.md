@@ -4,6 +4,7 @@
 <img src="https://cdn.discordapp.com/attachments/685879959205839013/965309417602052166/white_shurt.png">
 
  ## Sobre MIM
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960998262477832253/965424558414917683/ssdasdasd.png">
  - 🔥 Desenvolvedor Junior focado em aprender e ajudar o mundo. 
 
 - 💻 Atualmente estou trabalhando na [Amazonia Sistemas](https://www.amazoniasistemas.com.br)
