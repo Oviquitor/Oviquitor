@@ -28,9 +28,8 @@
 
  ##
  
-## 🛠 &nbsp;Linguagens
 <div style="display: inline_block"><br>
-  <img align="center" alt="Oviquitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Oviquitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Oviquitor-MySql" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Oviquitor-java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
   <img align="center" alt="Oviquitor-arduino" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
@@ -42,9 +41,8 @@
   <img align="center" alt="Oviquitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Oviquitor-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"> 
   <img align="center" alt="Oviquitor-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> 
- <img align="right" alt="Oviquitor-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960998262477832253/965342381689950218/545e8fa495165728d83b02e995b77ffd.gif">
+  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960998262477832253/977695410644725820/Publicacoes_Instagram_1_1.jpg">
 </div>
-<br><br>
 
   <!--LINGUAGENS
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
