@@ -43,7 +43,7 @@
  <img align="center" alt="Oviquitor-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Oviquitor-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"> 
   <img align="center" alt="Oviquitor-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> 
-  <img align="right" alt="Oviquitor-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960998262477832253/977695410644725820/Publicacoes_Instagram_1_1.jpg">
+  <img align="right" alt="Oviquitor-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960998262477832253/977751603790622740/Publicacoes_Instagram_1_1.png">
 </div>
 <br><br>
 
