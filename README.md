@@ -12,7 +12,7 @@
 
 - 🤖 Criador de robos
 
-- 👨‍💻 Sou usuário de **C#**
+- 👨‍💻 Sou usuário de **Flutter**
 
 - 📷 Amante de Fotografia
 <br><br>
