@@ -30,6 +30,7 @@
  
  ## 🛠 &nbsp;Linguagens 
 <div style="display: inline_block"><br>
+   <img align="right" alt="Oviquitor-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960998262477832253/977751603790622740/Publicacoes_Instagram_1_1.png">
 <img align="center" alt="Oviquitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Oviquitor-MySql" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Oviquitor-java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
@@ -38,7 +39,7 @@
   <img align="center" alt="Oviquitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Oviquitor-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"> 
   <img align="center" alt="Oviquitor-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> 
-  <img align="right" alt="Oviquitor-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960998262477832253/977751603790622740/Publicacoes_Instagram_1_1.png">
+
 </div>
 <br><br>
 
