@@ -8,7 +8,7 @@
  
  - 🔥 Desenvolvedor Junior focado em aprender e ajudar o mundo. 
 
-- 💻 Atualmente estou trabalhando na [Amazonia Sistemas](https://www.amazoniasistemas.com.br)
+- 💻 Atualmente fundador da AgriDecode<!--[Amazonia Sistemas](https://www.amazoniasistemas.com.br)-->
 
 - 🤖 Criador de robos
 
