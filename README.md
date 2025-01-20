@@ -84,7 +84,7 @@
  <!--LINKS SICIAL-->
   ##
   
-  ## Bora Conversar
+  ##😎 Bora Conversar
 <div align="center">
   <a href="https://www.linkedin.com/in/victor-gabriel-correa-silva-1a8030233" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
