@@ -103,4 +103,4 @@
 
 ## 
 
-<img src="https://drive.google.com/file/d/1gOxdrKcLyI7UTKfutvVtit9OVGp_ipuQ/view?usp=sharing">
+<img src="https://media.discordapp.net/attachments/1330899316059017322/1330901950111154176/Los_Angeles_Sign.jpg?ex=678faa87&is=678e5907&hm=82b2aa2555379aeb6f70310f495165eabbf4333062e16f332bb94ff8a613a79c&=&format=webp&width=1054&height=602">
