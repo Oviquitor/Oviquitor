@@ -61,10 +61,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Oviquitor/Oviquitor/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h1 align="left">Bora Conversar</h1>
 
 ###
