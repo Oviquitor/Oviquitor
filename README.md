@@ -1,91 +1,87 @@
-<h1 align="left">Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"><!----></h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oviquitor&color=yellow" alt=" Visitantes " /> </p>
+<br clear="both">
 
-<img src="https://cdn.discordapp.com/attachments/960998262477832253/966791267012980756/3958900.png">
+<h1 align="center">Hello World!!</h1>
 
- ## Sobre MIM
- <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960998262477832253/965424558414917683/ssdasdasd.png">
- 
- - 🔥 Desenvolvedor focado em aprender e ajudar o mundo. 
+###
 
-- 💻 Fundador da [AgriDecode](https://agridecode.com)<!--[Amazonia Sistemas](https://www.amazoniasistemas.com.br)-->
-
-- 🤖 Criador de robos
-
-- 👨‍💻 Sou usuário de **C#**, **Java** e **Flutter**
-
-- 📷 Amante de Fotografia
-<br><br>
-
-##
- 
-## ⚙️ &nbsp;GitHub Analytics
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=oviquitor&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oviquitor&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
-<br><br>
-
- ##
- 
- ## 🛠 &nbsp;Linguagens 
-<div style="display: inline_block"><br>
-<img align="center" alt="Oviquitor-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"> 
-<img align="center" alt="Oviquitor-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Oviquitor-MySql" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Oviquitor-java" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"> 
-  <img align="center" alt="Oviquitor-arduino" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Oviquitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Oviquitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Oviquitor-Ps" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg"> 
-  
-   <img align="right" alt="Oviquitor-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960998262477832253/977751603790622740/Publicacoes_Instagram_1_1.png">
+<div align="right">
+  <img src="https://profile-counter.glitch.me/Oviquitor/count.svg?"  />
 </div>
-<br><br>
 
-  <!--LINGUAGENS
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-  ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-  ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+###
 
-  Social Links
-  <p align="left" style="background:yellow">
-  <a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/></a>
-  <a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  </a>
-  <a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
-  <a href="https://instagram.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/></a>
-  <a href="https://youtube.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/></a>
-  </p>-->
-  
- <!--LINKS SICIAL-->
-  ##
-  
-  ## Bora Conversar
-<div> 
-    <a href="https://www.linkedin.com/in/victor-gabriel-correa-silva-1a8030233" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/oviquitor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/WHX5qqsa" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:victorgabrielcorreasilva0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-  <!--COBRINHA-->
-  <!--![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)-->
- 
+<div align="center">
+  <img height="200" src="https://drive.google.com/file/d/1B70yLTYYbNwM4nsnOGMgQcxT-h0opgXr/view?usp=drive_link"  />
 </div>
-<br><br>
 
-## 
+###
 
-<img src="https://cdn.discordapp.com/attachments/960998262477832253/965368906376175716/Sem_Titulo-1.jpg">
+<div align="center">
+  <a href="https://www.linkedin.com/in/victor-gabriel-correa-silva-1a8030233" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:victorgabrielcorreasilva0@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/oviquitor" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/WHX5qqsa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="80" height="40" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<h1 align="center">Sobre MIM</h1>
+
+###
+
+<p align="left">-🔥 Desenvolvedor apaixonado por tecnologia, com experiência em Flutter, Java e C#.<br>-🚀 Fundador da AgriDecode, focado em criar soluções que impactam positivamente a vida das pessoas.<br>-🤖 Criador de robôs, explorando novas ideias e desafios tecnológicos.<br>-📚 Habilidades em bancos de dados como SQL Server, MySQL e Firebase.<br>-🎵 Músico e 📷 Fotógrafo, com um olhar criativo e atenção aos detalhes.<br>-🌍 Amante de viagens e explorador do mundo.<br>-💡 Determinado, criativo e sempre buscando crescer e ajudar pessoas através da tecnologia.</p>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Oviquitor" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oviquitor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oviquitor&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Oviquitor/Oviquitor/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://drive.google.com/file/d/1iOcAnvbGCffl12a0HWw3CfqchKSXvL-h/view?usp=drive_link"  />
+</div>
+
+###
