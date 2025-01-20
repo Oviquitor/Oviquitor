@@ -1,33 +1,38 @@
-<br clear="both">
+<h1 align="left">Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"><!----></h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oviquitor&color=yellow" alt=" Visitantes " /> </p>
 
-<h1 align="center">Hello World</h1>
+<img src="https://drive.google.com/file/d/1B70yLTYYbNwM4nsnOGMgQcxT-h0opgXr/view?usp=drive_link">
 
-###
+ ## Sobre MIM
+ <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960998262477832253/965424558414917683/ssdasdasd.png">
+ 
+ - 🔥 Desenvolvedor apaixonado por tecnologia, com experiência em Flutter, Java e C#.
 
-<div align="right">
-  <img src="https://profile-counter.glitch.me/Oviquitor/count.svg?"  />
-</div>
+- -🚀 Meu objetivo? Criar soluções que impactam positivamente a vida das pessoas.
 
-###
+- 🤖 Criador de robôs, explorando novas ideias e desafios tecnológicos.
 
-<div align="center">
-  <img height="200" src="https://drive.google.com/file/d/1B70yLTYYbNwM4nsnOGMgQcxT-h0opgXr/view?usp=drive_link](https://drive.google.com/file/d/1B70yLTYYbNwM4nsnOGMgQcxT-h0opgXr/view?usp=drive_link"  />
-</div>
+- 📚 Habilidades em bancos de dados como SQL Server, MySQL e Firebase.
 
-###
+- 🎵 Músico e 📷 Fotógrafo, com um olhar criativo e atenção aos detalhes.
 
-<h1 align="left">Sobre MIM</h1>
+- 🌍 Amante de viagens e explorador do mundo.
 
-###
+- 💡 Determinado, criativo e sempre buscando crescer e ajudar pessoas através da tecnologia.
+<br><br>
 
-<p align="left">-🔥 Desenvolvedor apaixonado por tecnologia, com experiência em Flutter, Java e C#.<br>-🚀 Fundador da AgriDecode, focado em criar soluções que impactam positivamente a vida das pessoas.<br>-🤖 Criador de robôs, explorando novas ideias e desafios tecnológicos.<br>-📚 Habilidades em bancos de dados como SQL Server, MySQL e Firebase.<br>-🎵 Músico e 📷 Fotógrafo, com um olhar criativo e atenção aos detalhes.<br>-🌍 Amante de viagens e explorador do mundo.<br>-💡 Determinado, criativo e sempre buscando crescer e ajudar pessoas através da tecnologia.</p>
+##
+ 
+## ⚙️ &nbsp;GitHub Analytics
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=oviquitor&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oviquitor&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
+<br><br>
 
-###
-
-<h1 align="left">🛠  Linguagens</h1>
-
-###
-
+ ##
+ 
+ ## 🛠 &nbsp;Linguagens 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="25" />
@@ -47,24 +52,39 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+<br><br>
 
-###
+  <!--LINGUAGENS
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+  ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+  ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<h1 align="left">⚙️  GitHub Analytics</h1>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oviquitor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oviquitor&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=gotham&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
-
-###
-
-<h1 align="left">Bora Conversar</h1>
-
-###
-
+  Social Links
+  <p align="left" style="background:yellow">
+  <a href="https://codepen.io/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/></a>
+  <a href="https://twitter.com/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  </a>
+  <a href="https://linkedin.com/in/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/></a>
+  <a href="https://instagram.com/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/></a>
+  <a href="https://youtube.com/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/></a>
+  </p>-->
+  
+ <!--LINKS SICIAL-->
+  ##
+  
+  ## Bora Conversar
 <div align="center">
   <a href="https://www.linkedin.com/in/victor-gabriel-correa-silva-1a8030233" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
@@ -79,11 +99,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="80" height="40" alt="discord logo"  />
   </a>
 </div>
+<br><br>
 
-###
+## 
 
-<div align="center">
-  <img height="200" src="https://drive.google.com/file/d/1iOcAnvbGCffl12a0HWw3CfqchKSXvL-h/view?usp=drive_link"  />
-</div>
-
-###
+<img src="https://drive.google.com/file/d/1iOcAnvbGCffl12a0HWw3CfqchKSXvL-h/view?usp=drive_link">
