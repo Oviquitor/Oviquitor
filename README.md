@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hello World!!</h1>
+<h1 align="center">Hello World</h1>
 
 ###
 
@@ -16,28 +16,15 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/victor-gabriel-correa-silva-1a8030233" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:victorgabrielcorreasilva0@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/oviquitor" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/WHX5qqsa" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="80" height="40" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="center">Sobre MIM</h1>
+<h1 align="left">Sobre MIM</h1>
 
 ###
 
 <p align="left">-🔥 Desenvolvedor apaixonado por tecnologia, com experiência em Flutter, Java e C#.<br>-🚀 Fundador da AgriDecode, focado em criar soluções que impactam positivamente a vida das pessoas.<br>-🤖 Criador de robôs, explorando novas ideias e desafios tecnológicos.<br>-📚 Habilidades em bancos de dados como SQL Server, MySQL e Firebase.<br>-🎵 Músico e 📷 Fotógrafo, com um olhar criativo e atenção aos detalhes.<br>-🌍 Amante de viagens e explorador do mundo.<br>-💡 Determinado, criativo e sempre buscando crescer e ajudar pessoas através da tecnologia.</p>
+
+###
+
+<h1 align="left">🛠  Linguagens</h1>
 
 ###
 
@@ -63,9 +50,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Oviquitor" alt="Layout with last medium posts"  />
-</div>
+<h1 align="left">⚙️  GitHub Analytics</h1>
 
 ###
 
@@ -77,6 +62,27 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Oviquitor/Oviquitor/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h1 align="left">Bora Conversar</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/victor-gabriel-correa-silva-1a8030233" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="80" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:victorgabrielcorreasilva0@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="80" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/oviquitor" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="80" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/WHX5qqsa" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="80" height="40" alt="discord logo"  />
+  </a>
+</div>
 
 ###
 
