@@ -1,7 +1,7 @@
 <h1 align="left">Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"><!----></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oviquitor&color=yellow" alt=" Visitantes " /> </p>
 
-<img src="https://media.discordapp.net/attachments/1330899316059017322/1330901950111154176/Los_Angeles_Sign.jpg?ex=678faa87&is=678e5907&hm=82b2aa2555379aeb6f70310f495165eabbf4333062e16f332bb94ff8a613a79c&=&format=webp&width=1054&height=602">
+<img src="https://media.discordapp.net/attachments/1330899316059017322/1330903149283901492/Los_Angeles_Sign.jpg?ex=678faba5&is=678e5a25&hm=7aee0495a97109ed44128a5289eabe14e2eb041eaba23749a583f2692f0a21fb&=&format=webp&width=1407&height=594">
 
  ## Sobre MIM
  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960998262477832253/965424558414917683/ssdasdasd.png">
