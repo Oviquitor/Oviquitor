@@ -3,7 +3,7 @@
 
 <img src="https://media.discordapp.net/attachments/1330899316059017322/1330903149283901492/Los_Angeles_Sign.jpg?ex=678faba5&is=678e5a25&hm=7aee0495a97109ed44128a5289eabe14e2eb041eaba23749a583f2692f0a21fb&=&format=webp&width=1407&height=594">
 
- ## Sobre MIM
+ ## 🌴 &nbsp;Sobre MIM
  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1330899316059017322/1330904389371560028/77e172ce0505d6ac3f05830576ebd0d7.jpg?ex=678faccd&is=678e5b4d&hm=fe97456c6ed726158af12907d60e7b909f9b5c78e304eae4ac64e2c244dae385&=&format=webp&width=334&height=602">
  
  - 🔥 Desenvolvedor apaixonado por tecnologia, com experiência em Flutter, Java e C#.
