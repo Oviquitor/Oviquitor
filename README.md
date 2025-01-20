@@ -6,7 +6,7 @@
  ## Sobre MIM
  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/960998262477832253/965424558414917683/ssdasdasd.png">
  
- - 🔥 Desenvolvedor Junior focado em aprender e ajudar o mundo. 
+ - 🔥 Desenvolvedor focado em aprender e ajudar o mundo. 
 
 - 💻 Fundador da [AgriDecode](https://agridecode.com)<!--[Amazonia Sistemas](https://www.amazoniasistemas.com.br)-->
 
