@@ -1,7 +1,7 @@
 <h1 align="left">Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"><!----></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oviquitor&color=yellow" alt=" Visitantes " /> </p>
 
-<img src="https://media.discordapp.net/attachments/1330899316059017322/1330903149283901492/Los_Angeles_Sign.jpg?ex=678faba5&is=678e5a25&hm=7aee0495a97109ed44128a5289eabe14e2eb041eaba23749a583f2692f0a21fb&=&format=webp&width=1407&height=594">
+<img src="https://github.com/Oviquitor/fotos/blob/b9ee983f37dc43ac47c4c525d1930f1a440e06d5/Los_Angeles_Sign.jpg">
 
  ## 🌴 &nbsp;Sobre MIM
  <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://github.com/Oviquitor/fotos/blob/b9ee983f37dc43ac47c4c525d1930f1a440e06d5/Los_Angeles_Sign.jpg">
