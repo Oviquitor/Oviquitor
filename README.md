@@ -4,7 +4,7 @@
 <img src="https://github.com/Oviquitor/fotos/blob/b9ee983f37dc43ac47c4c525d1930f1a440e06d5/Los_Angeles_Sign.jpg">
 
  ## 🌴 &nbsp;Sobre MIM
- <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://github.com/Oviquitor/fotos/blob/b9ee983f37dc43ac47c4c525d1930f1a440e06d5/Los_Angeles_Sign.jpg">
+ <img align="right" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://github.com/Oviquitor/fotos/blob/ae048bf43733d3ad06f14624a0c3a830e6037367/77e172ce0505d6ac3f05830576ebd0d7.jpg">
  
  - 🔥 Desenvolvedor apaixonado por tecnologia, com experiência em Flutter, Java e C#.
 
@@ -103,4 +103,4 @@
 
 ## 
 
-<img src="https://media.discordapp.net/attachments/1330899316059017322/1330901949679407145/Tropical_Beach_Top_Down.jpg?ex=678faa87&is=678e5907&hm=659ec621ffc7759250e6b22ad9c15245829de280bd2c90ecc435b3fb384d5182&=&format=webp&width=1054&height=602">
+<img src="https://github.com/Oviquitor/fotos/blob/ae048bf43733d3ad06f14624a0c3a830e6037367/Tropical_Beach_Top_Down.jpg">
